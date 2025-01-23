@@ -1,2 +1,9 @@
 Console.Writeline("Rana Badar Munir");
 Console.Writeline("24-SET-015");
+
+Console.Writeline("Math");
+Console.Writeline("Physics");
+Console.Writeline("Computer Science");
+Console.Writeline("English");
+Console.Writeline("Urdu");
+Console.Writeline("Pak studies");
