@@ -7,3 +7,9 @@ Console.Writeline("Computer Science");
 Console.Writeline("English");
 Console.Writeline("Urdu");
 Console.Writeline("Pak studies");
+
+Console.Writeline("Computer Programming");
+Console.Writeline("Calculus");
+Console.Writeline("IT skills");
+Console.Writeline("Environment Health and Safety");
+Console.Writeline("Islamiyat");
